@@ -20,7 +20,8 @@
    "jquery": true,
    "globals": {
      "angular": false,
-     "cordova": true
+     "cordova": true,
+     "app" : false
 
    }
 }
